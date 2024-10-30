@@ -522,6 +522,7 @@ ol, li {
   margin: 50px auto;
   margin-bottom:0;
   padding:0px 50px 0 50px;
+	background-color: black;
 }
 
 #cover > img {
