@@ -789,6 +789,7 @@ form label[for="submit"]:active {
 .stars {
   font-size: 2rem;
   color: gold;
+	padding-bottom: 10px;
 }
 .reviews-count h3 {
   font-family: 'Roboto', sans-serif;
