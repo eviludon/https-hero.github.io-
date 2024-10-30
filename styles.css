@@ -767,7 +767,7 @@ form label[for="submit"]:active {
   font-size: 3em;
   color: gold;
 }
-.stars {
+div.stars {
   font-size: 2rem;
   color: gold;
 	padding-bottom: 10px;
