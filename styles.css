@@ -906,3 +906,9 @@ form label[for="submit"]:active {
 .footer-nav p {
 	text-align: center;
 }
+
+:root
+{
+	-bs-body-bg: black;
+	background-color: black;
+}
