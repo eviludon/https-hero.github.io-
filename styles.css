@@ -767,10 +767,10 @@ form label[for="submit"]:active {
   font-size: 3em;
   color: gold;
 }
-div.stars {
+.stars {
   font-size: 2rem;
   color: gold;
-	padding-bottom: 10px;
+	
 }
 .reviews-count h3 {
   font-family: 'Roboto', sans-serif;
@@ -830,7 +830,10 @@ div.stars {
   line-height: 2.4rem;
   color: gold;
 }
-
+.rev-stars
+{
+	padding-bottom: 20px;
+}
 
   #reviews-section .container {
     margin: 20px auto;
