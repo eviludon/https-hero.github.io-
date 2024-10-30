@@ -13,7 +13,7 @@ head, home
   background-color: black;
 }
 
-body
+body*
 {
   display:flex;
   justify-content:center;
